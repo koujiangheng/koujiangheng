@@ -1,5 +1,5 @@
 # Hello!
-I'm xiaojiuwo, a pizza guy's friend also with a passion of programming.
+I'm xiaojiuwo, a [pizza guy's](https://github.com/arves100) friend also with a passion of programming.
 
 ## My stuff
 
